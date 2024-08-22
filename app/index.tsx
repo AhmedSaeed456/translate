@@ -40,6 +40,7 @@ export default function Home() {
           <Text className="color-gray-500">{inputChars.length} / 5000</Text>
         </View>
       </View>
+      {/* //comment */}
       <View className="gap-5 bg-gray-200 p-5">
         <Text className="min-h-32 text-xl">Output</Text>
         <View className="flex-row items-end justify-between">
